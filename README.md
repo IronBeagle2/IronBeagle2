@@ -1,15 +1,17 @@
-D:\About>dir<br>
-&nbsp;Volume in drive D is Data<br>
-&nbsp;Volume Serial Number is DEJV-OSSP<br><br>
+```
+D:\About>dir
+ Volume in drive D is Data
+ Volume Serial Number is DEJV-OSS*
 
-&nbsp;Directory of D:\About<br><br>
+ Directory of D:\About
 
-16.12.2012&nbsp;&nbsp;14:34&nbsp;&nbsp;&nbsp;&nbsp;DIR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.<br>
-13.07.2011&nbsp;&nbsp;16:48&nbsp;&nbsp;&nbsp;&nbsp;DIR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;web-developer<br>
-25.11.2011&nbsp;&nbsp;18:14&nbsp;&nbsp;&nbsp;&nbsp;DIR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;game-designer<br>
-19.09.2010&nbsp;&nbsp;13:26&nbsp;&nbsp;&nbsp;&nbsp;DIR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vintage-tech-lover<br>
-08.02.2010&nbsp;&nbsp;14:35&nbsp;&nbsp;&nbsp;&nbsp;DIR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;translator<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0 File(s)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0 bytes<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5 Dir(s)&nbsp;&nbsp;1 828 633 235 456 bytes free<br><br>
+16.12.2012  14:34    <DIR>          .
+13.07.2011  16:48    <DIR>          web-developer
+25.11.2011  18:14    <DIR>          game-designer
+19.09.2010  13:26    <DIR>          vintage-tech-lover
+08.02.2010  14:35    <DIR>          translator
+               0 File(s)              0 bytes
+               5 Dir(s)               1 828 633 235 456 bytes free
   
 D:\About>
+```
