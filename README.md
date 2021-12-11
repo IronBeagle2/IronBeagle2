@@ -1,16 +1,15 @@
-### Hi there 👋
+D:\About>dir
+ Volume in drive D is Data
+ Volume Serial Number is DEJV-OSSP
 
-<!--
-**IronBeagle2/IronBeagle2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Directory of D:\About
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+16.12.2012  14:34    <DIR>          .
+13.07.2011  16:48    <DIR>          web-developer
+25.11.2011  18:14    <DIR>          game-designer
+19.09.2010  13:26    <DIR>          vintage-tech-lover
+08.02.2010  14:35    <DIR>          translator
+               0 File(s)              0 bytes
+               5 Dir(s)  1 828 633 235 456 bytes free
+  
+D:\About>
